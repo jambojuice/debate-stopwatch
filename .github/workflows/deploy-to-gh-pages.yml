@@ -12,6 +12,7 @@ jobs:
 
       - name: Build
         run: |
+          npm i -g yorkie
           yarn install
           yarn lint
           yarn build

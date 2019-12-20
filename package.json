@@ -30,8 +30,7 @@
     "lint-staged": "^9.4.3",
     "prettier": "^1.19.1",
     "typescript": "~3.5.3",
-    "vue-template-compiler": "^2.6.10",
-    "yorkie": "^2.0.0"
+    "vue-template-compiler": "^2.6.10"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
